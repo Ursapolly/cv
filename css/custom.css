@@ -1,0 +1,20 @@
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.margin-sm {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.margin-lg {
+  margin-top: 50px;
+}
+
+.font-size-large {
+  font-size: 18px;
+}
